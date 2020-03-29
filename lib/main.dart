@@ -33,7 +33,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  static final String apiKey = "AIzaSyBos2o0_NCfSEBSxAdai06ldc3BDOTqr6g";
+  static final String apiKey = "Your Key Here";
 
   Distance distance = new Distance();
   bool showloading = false;
